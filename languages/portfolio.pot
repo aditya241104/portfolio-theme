@@ -1,0 +1,344 @@
+# Copyright (C) 2025 Aditya Shah
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: My Portfolio Theme 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/portfolio-theme\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-04T05:37:28+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: portfolio\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "My Portfolio Theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A custom WordPress theme for showcasing my portfolio."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: header.php:22
+#: index.php:13
+msgid "Aditya Shah"
+msgstr ""
+
+#: header.php:30
+msgid "Menu"
+msgstr ""
+
+#: header.php:34
+msgid "About"
+msgstr ""
+
+#: header.php:35
+msgid "Skills"
+msgstr ""
+
+#: header.php:36
+#: index.php:64
+msgid "Projects"
+msgstr ""
+
+#: header.php:37
+#: index.php:140
+msgid "Education"
+msgstr ""
+
+#: header.php:38
+msgid "Certificates"
+msgstr ""
+
+#: header.php:39
+msgid "Connect"
+msgstr ""
+
+#: header.php:40
+msgid "Resume"
+msgstr ""
+
+#: index.php:14
+msgid "Computer Engineering Student | Full-Stack Developer"
+msgstr ""
+
+#: index.php:16
+msgid "Phone:"
+msgstr ""
+
+#: index.php:17
+msgid "Email:"
+msgstr ""
+
+#: index.php:25
+msgid "Technical Skills"
+msgstr ""
+
+#: index.php:29
+msgid "Programming Languages"
+msgstr ""
+
+#: index.php:31
+msgid "JavaScript"
+msgstr ""
+
+#: index.php:32
+msgid "Python"
+msgstr ""
+
+#: index.php:33
+msgid "Java (OOPs)"
+msgstr ""
+
+#: index.php:34
+msgid "SQL"
+msgstr ""
+
+#: index.php:35
+msgid "PHP"
+msgstr ""
+
+#: index.php:39
+msgid "Frontend"
+msgstr ""
+
+#: index.php:41
+msgid "WordPress"
+msgstr ""
+
+#: index.php:42
+msgid "React.js"
+msgstr ""
+
+#: index.php:43
+msgid "HTML/CSS"
+msgstr ""
+
+#: index.php:44
+msgid "Bootstrap"
+msgstr ""
+
+#: index.php:45
+msgid "Tailwind CSS"
+msgstr ""
+
+#: index.php:49
+msgid "Backend & Databases"
+msgstr ""
+
+#: index.php:51
+msgid "Node.js"
+msgstr ""
+
+#: index.php:52
+msgid "Express.js"
+msgstr ""
+
+#: index.php:53
+msgid "MongoDB"
+msgstr ""
+
+#: index.php:54
+msgid "MySQL"
+msgstr ""
+
+#: index.php:55
+msgid "JDBC"
+msgstr ""
+
+#: index.php:69
+msgid "Personal Portfolio Website (This Website)"
+msgstr ""
+
+#: index.php:70
+msgid "MAY 2025"
+msgstr ""
+
+#: index.php:73
+msgid "Built using WordPress with a fully custom theme"
+msgstr ""
+
+#: index.php:79
+msgid "Emotion Detection Model for Conversational AI"
+msgstr ""
+
+#: index.php:80
+msgid "FEB 2025"
+msgstr ""
+
+#: index.php:83
+msgid "Built a multi-label emotion classifier using RoBERTa-large and the GoEmotions dataset"
+msgstr ""
+
+#: index.php:84
+msgid "Detected 28 fine-grained emotions from text inputs with context-aware understanding"
+msgstr ""
+
+#: index.php:85
+msgid "Improved performance via data augmentation, synthetic data generation, and custom weighted focal loss"
+msgstr ""
+
+#: index.php:86
+msgid "Implemented real-time prediction with history tracking for dynamic conversation analysis"
+msgstr ""
+
+#: index.php:87
+msgid "Used: PyTorch, HuggingFace Transformers, Pandas, Datasets"
+msgstr ""
+
+#: index.php:93
+msgid "E-commerce Website – ADAA Jaipur"
+msgstr ""
+
+#: index.php:94
+msgid "JAN 2025"
+msgstr ""
+
+#: index.php:97
+msgid "Full-stack platform using React.js, Tailwind CSS, Node.js, Express.js"
+msgstr ""
+
+#: index.php:98
+msgid "AI-powered chatbot using Gemini"
+msgstr ""
+
+#: index.php:99
+msgid "Admin panel, search, authentication, and email confirmation"
+msgstr ""
+
+#: index.php:105
+msgid "Wedding Planner Website"
+msgstr ""
+
+#: index.php:106
+msgid "MAR 2024"
+msgstr ""
+
+#: index.php:109
+msgid "React frontend with Express.js backend and MongoDB"
+msgstr ""
+
+#: index.php:110
+msgid "Socket.io for real-time chat"
+msgstr ""
+
+#: index.php:116
+msgid "Inventory Management System"
+msgstr ""
+
+#: index.php:117
+#: index.php:128
+msgid "OCT 2023"
+msgstr ""
+
+#: index.php:120
+msgid "Java + Swing GUI desktop app"
+msgstr ""
+
+#: index.php:121
+msgid "SQL with Hibernate ORM and JDBC"
+msgstr ""
+
+#: index.php:127
+msgid "Marvel Universe Info Hub"
+msgstr ""
+
+#: index.php:131
+msgid "HTML, CSS, Bootstrap-based site with JavaScript interactivity"
+msgstr ""
+
+#: index.php:132
+msgid "Rich comic and character info via dynamic UI"
+msgstr ""
+
+#: index.php:143
+msgid "B.Tech in Computer Engineering"
+msgstr ""
+
+#: index.php:144
+msgid "Marwadi University (2022–2026)"
+msgstr ""
+
+#: index.php:145
+msgid "CPI:"
+msgstr ""
+
+#: index.php:148
+msgid "Higher Secondary Certificate (HSC)"
+msgstr ""
+
+#: index.php:149
+msgid "Innovative Schools (2022)"
+msgstr ""
+
+#: index.php:150
+#: index.php:155
+msgid "Percentile:"
+msgstr ""
+
+#: index.php:153
+msgid "Secondary School Certificate (SSC)"
+msgstr ""
+
+#: index.php:154
+msgid "Imulidhar Schools (2020)"
+msgstr ""
+
+#: index.php:162
+msgid "Certifications"
+msgstr ""
+
+#: index.php:165
+msgid "JavaScript (Basic)"
+msgstr ""
+
+#: index.php:166
+msgid "HackerRank • DEC 2023"
+msgstr ""
+
+#: index.php:169
+msgid "Java (Basic)"
+msgstr ""
+
+#: index.php:170
+msgid "HackerRank • APR 2023"
+msgstr ""
+
+#: index.php:177
+msgid "Connect With Me"
+msgstr ""
+
+#: index.php:182
+msgid "HackerRank"
+msgstr ""
+
+#: index.php:187
+msgid "GitHub"
+msgstr ""
+
+#: index.php:192
+msgid "Stack Overflow"
+msgstr ""
+
+#: index.php:197
+msgid "LinkedIn"
+msgstr ""
+
+#: index.php:205
+msgid "Download My Resume"
+msgstr ""
+
+#: index.php:207
+msgid "Get a PDF version of my resume for offline reference."
+msgstr ""
+
+#: index.php:211
+msgid "Download Resume"
+msgstr ""
