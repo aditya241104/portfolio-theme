@@ -17,4 +17,3 @@ Built from scratch using WordPress theme development standards.
 - WP-CLI for translation (`i18n make-pot`)
 - Git for version control
 
-## 📂 Folder Structure
